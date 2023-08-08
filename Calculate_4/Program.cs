@@ -7,6 +7,7 @@ namespace Calculator_1
         static void Main(string[] args)
         {
             Console.WriteLine("Podaj pierwszą liczbę: ");
+
             if (!int.TryParse(Console.ReadLine(), out int number1))
             {
                 Console.WriteLine("Wystąpił błąd: Podana wartość nie jest liczbą całkowitą!");
