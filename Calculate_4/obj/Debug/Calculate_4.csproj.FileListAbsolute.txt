@@ -9,7 +9,6 @@ C:\Users\user\Desktop\Git_Clone\simple-calculator\Calculate_4\bin\Debug\Calculat
 C:\Users\user\Desktop\Git_Clone\simple-calculator\Calculate_4\bin\Debug\Calculate_4.exe
 C:\Users\user\Desktop\Git_Clone\simple-calculator\Calculate_4\bin\Debug\Calculate_4.pdb
 C:\Users\user\Desktop\Git_Clone\simple-calculator\Calculate_4\obj\Debug\Calculate_4.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\Git_Clone\simple-calculator\Calculate_4\obj\Debug\Calculate_4.csproj.SuggestedBindingRedirects.cache
 C:\Users\user\Desktop\Git_Clone\simple-calculator\Calculate_4\obj\Debug\Calculate_4.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Git_Clone\simple-calculator\Calculate_4\obj\Debug\Calculate_4.exe
 C:\Users\user\Desktop\Git_Clone\simple-calculator\Calculate_4\obj\Debug\Calculate_4.pdb
