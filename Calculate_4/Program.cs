@@ -20,6 +20,7 @@ namespace Calculator_1
             var action = Console.ReadLine();
 
 
+
             Console.WriteLine("Podaj drugą liczbę: ");
             if (!int.TryParse(Console.ReadLine(), out int number2))
             {
